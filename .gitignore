@@ -2,4 +2,5 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/Turta01/bin/ARM/Debug
+/Turta01/bin
+/.vs
