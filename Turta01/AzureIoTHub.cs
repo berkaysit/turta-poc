@@ -10,7 +10,7 @@ namespace Turta01
     class AzureIoTHub
     {
 
-         public static async void SendDevieceToCloudMessageAsync(string mesaj)
+         public static async void SendDevieceToCloudMessageAsync(string mesaj) 
         {
             string iotHubUri = "TurtaIoTHub.azure-devices.net";
             string deviceId = "RaspiWin01";
